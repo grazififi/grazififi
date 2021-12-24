@@ -1,0 +1,3 @@
+- 👋 Eu sou Geulazii
+- 👀 Gosto de cavalos e bots do Discord
+- 🌱 Estou aprendendo JavaScript e Python
